@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm AR Abdullah</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">Web Developer from Bangladesh</h3>
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/4c8d92806e3c2322a2c390ffa0019c1d6f78a4d82108aa6946863ae362a763c8/68747470733a2f2f69322e77702e636f6d2f616c6c68746163636573732e696e666f2f77702d636f6e74656e742f75706c6f6164732f323031382f30332f70726f6772616d6d696e672e6769663f6669743d313238312532433731362673736c3d31">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arabdullah123&label=Profile%20views&color=0e75b6&style=flat" alt="arabdullah123" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 💬 Ask me about **MEARN**
+- 💬 Ask me about **Web Developer**
 
 - 📫 How to reach me **abdullahmr804@gmail.com**
 
