@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mr-abdullah-6aa494256" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[mr-abdullah-6aa494256]ar-abdullah" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ar-abdullah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[ar-abdullah]ar-abdullah" height="30" width="40" /></a>
 <a href="https://fb.com/mrabdullah2020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mrabdullah2020" height="30" width="40" /></a>
 </p>
 
