@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Web Developer**
 
-- 📫 How to reach me **abdullahmr804@gmail.com**
+- 📫 You can reach me at **abdullahmr804@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
 
